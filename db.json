@@ -3,7 +3,6 @@
         {
             "name": "admin",
             "email": "admin.app@mailinator.com",
-            "isAdmin": true,
             "contact": "9840453788",
             "password": "admin@123",
             "id": "U001"
